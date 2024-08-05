@@ -1,0 +1,9 @@
+.carousel-indicators{
+    scroll-padding-right: 100px;
+}
+.d-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
